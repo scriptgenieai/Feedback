@@ -37,7 +37,7 @@ ScriptGenie 是一个革命性的Chrome扩展程序，它将AI大语言模型的
 
 如果您有其他问题或需求，可以通过以下方式联系我们：
 
-- 电子邮件：[support@yourdomain.com](mailto:support@yourdomain.com)
+- 电子邮件：[scriptgenieai@outlook.com](mailto:scriptgenieai@outlook.com)
 
 ---
 
