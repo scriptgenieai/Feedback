@@ -12,16 +12,9 @@ ScriptGenie 是一个革命性的Chrome扩展程序，它将AI大语言模型的
 [![Issues](https://img.shields.io/github/issues/scriptgenie/issues)](https://github.com/scriptgenie/issues/issues)
 [![Last Commit](https://img.shields.io/github/last-commit/scriptgenie/issues)](https://github.com/scriptgenie/issues/commits/main)
 
-感谢您使用 ScriptGenie 浏览器扩展！这个仓库专门用于收集用户反馈、问题报告和功能请求。虽然 ScriptGenie 的源代码不是开源的，但我们重视您的意见并希望通过这个公开渠道与您保持沟通。
+感谢您使用 ScriptGenie 浏览器扩展！这个仓库专门用于收集用户反馈、问题报告和功能请求。虽然 ScriptGenie 的源代码暂时没有开源，但我们重视您的意见并希望通过这个公开渠道与您保持沟通。
 
-## 如何提交反馈
-
-### 提交 Issue
-
-1. 点击上方的 "Issues" 标签页
-2. 点击绿色的 "New issue" 按钮
-3. 选择适合的问题模板（如果有）
-4. 填写必要的信息并提交
+## 提交反馈
 
 ### 提交问题时请包含：
 
@@ -32,7 +25,7 @@ ScriptGenie 是一个革命性的Chrome扩展程序，它将AI大语言模型的
 - 相关的脚本代码（如适用）
 - 截图或录屏（如适用）
 
-## 功能请求
+## 新需求
 
 我们欢迎您提出新功能的建议！提交功能请求时，请：
 
